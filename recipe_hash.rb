@@ -46,5 +46,5 @@ end
 #6: Return the number of ingredients in the `perfect_10_recipe` hash.
 def number_ingredients(perfect_10_recipe)
 end
-ingredients_and_amounts(perfect_10_recipe)
-
+ingredients_and_amount(perfect_10_recipe)
+ingredients(perfect_10_recipe)
